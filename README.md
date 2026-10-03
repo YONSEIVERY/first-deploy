@@ -14,11 +14,11 @@
 
 아래 버튼을 누릅니다.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYONSEIVERY%2Ffirst-deploy&project-name=very-myname&repository-name=very-myname)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYONSEIVERY%2Ffirst-deploy&repository-name=very-myname)
 
 1. 저장소 이름 칸의 `very-myname`에서 `myname`을 내 영문 이름으로 바꿉니다. 예: `very-minseo`
 2. `Create`를 누르고 1분쯤 기다립니다
-3. 축하 화면이 뜨면 끝입니다. `very-내이름.vercel.app` 같은 주소가 생겼습니다. 휴대폰으로도 열어 보세요
+3. 축하 화면이 뜨면 끝입니다. `very-내이름`으로 시작하는 주소가 생겼습니다. 같은 이름을 누가 먼저 썼다면 뒤에 글자가 더 붙는데, 정상입니다. 휴대폰으로도 열어 보세요
 
 방금 일어난 일: 이 템플릿이 내 GitHub 계정에 복제됐고, Vercel이 그것을 인터넷에 올렸습니다.
 
