@@ -47,7 +47,7 @@
 ## 더 해 보기
 
 - [Tally](https://tally.so)로 신청 폼을 만들어 페이지의 버튼에 연결하기
-- `style.css` 맨 위의 색 다섯 줄을 바꿔 내 색으로 만들기
+- 걸음 3을 하기 전이라면 `style.css` 맨 위의 색 다섯 줄을 바꿔 내 색으로 만들기. 걸음 3을 마쳤다면 Claude에게 색을 바꿔 달라고 부탁하기
 - [Microsoft Clarity](https://clarity.microsoft.com)를 붙여 사람들이 어디를 누르는지 보기
 
 ## 막혔을 때
